@@ -4,7 +4,7 @@
   {
     public void display<ReportModel>(ReportModel report)
     {
-      throw new System.NotImplementedException();
+      
     }
   }
 }
